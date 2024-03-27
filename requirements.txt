@@ -1,2 +1,4 @@
 openai
 pyannote.audio
+python-dotenv
+speechbrain==0.5.14
