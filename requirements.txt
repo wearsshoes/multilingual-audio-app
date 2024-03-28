@@ -1,4 +1,5 @@
+flask
+requests
 openai
-pyannote.audio
+deepgram-sdk
 python-dotenv
-speechbrain==0.5.14
