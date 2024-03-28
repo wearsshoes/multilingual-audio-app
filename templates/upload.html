@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload File</title>
+    <style>
+        .output-container {
+            width: 800px;
+            word-wrap: break-word;
+            white-space: pre-wrap; /* Preserve the formatting of the pre tag */
+        }
+    </style>
+    <script>
+        function addLanguage() {
+            var selectedLanguage = document.getElementById("languageDropdown").value;
+            var languageList = document.getElementById("selectedLanguages");
+
+            // Check if the language is already selected
+            if (!languageList.innerHTML.includes(selectedLanguage)) {
+                var entry = document.createElement('li');
+                entry.appendChild(document.createTextNode(selectedLanguage));
+                entry.setAttribute("id", selectedLanguage);
+
+                // Add a remove button
+                var removeButton = document.createElement('button');
+                removeButton.setAttribute("type", "button");
+                removeButton.setAttribute("onclick", "removeLanguage('" + selectedLanguage + "')");
+                removeButton.appendChild(document.createTextNode("Remove"));
+                entry.appendChild(removeButton);
+
+                languageList.appendChild(entry);
+
+                // Add a hidden input to store the language for form submission
+                var input = document.createElement("input");
+                input.setAttribute("type", "hidden");
+                input.setAttribute("name", "languages");
+                input.setAttribute("value", selectedLanguage);
+                document.getElementById("languageForm").appendChild(input);
+            }
+        }
+
+        function removeLanguage(language) {
+            var languageList = document.getElementById("selectedLanguages");
+            var languageEntry = document.getElementById(language);
+            languageList.removeChild(languageEntry);
+
+            // Remove the hidden input for this language
+            var inputs = document.getElementsByName("languages");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].value === language) {
+                    document.getElementById("languageForm").removeChild(inputs[i]);
+                    break;
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Upload File</h1>
+    <form id="languageForm" action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="audio/*"><br>
+        <ul id="selectedLanguages">
+            <!-- List of selected languages will appear here -->
+        </ul>
+        <select id="languageDropdown">
+            {% for code, name in languages.items() %}
+                <option value="{{ code }}">{{ name }}</option>
+            {% endfor %}
+        </select>
+        <button type="button" onclick="addLanguage()">Add Language</button><br>
+        <input type="submit" value="Upload">
+        <div class="output-container">
+            Diarization:<br>
+            <pre>{{ diarization }}</pre>
+        </div>
+        <div class="output-container">
+            Transcripts:<br>
+            {% for lang, transcription in transcriptions.items() %}
+            <div class="output-container">
+                {{ lang }} Transcript:<br>
+                <pre>{{ transcription }}</pre>
+            </div>
+            {% endfor %}
+        </div>
+    </body>
+    </form>
+</body>
+</html>
