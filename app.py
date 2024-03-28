@@ -61,6 +61,7 @@ def diarize(audio_file_path, file_hash):
     response = dz_client.listen.prerecorded.v("1").transcribe_file(payload, options)
     formatted_json = response.to_json(indent=4)
     cache[cache_key] = formatted_json
+    save_cache(cache)  # Save changes to the cache file
     return formatted_json
 
 def transcribe(audio_file_path, file_hash, language):
@@ -81,6 +82,8 @@ def transcribe(audio_file_path, file_hash, language):
             timestamp_granularities=["word"]
         )
     cache[cache_key] = transcription
+    save_cache(cache)  # Save changes to the cache file
+
     return json.dumps(transcription.model_dump(), indent=4)
 
 @app.route('/', methods=['GET', 'POST'])
