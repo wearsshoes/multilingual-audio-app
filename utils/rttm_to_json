@@ -1,0 +1,42 @@
+import sys
+import os
+import json
+
+# Convert RTTM to JSON
+def convert_rttm_to_json(rttm_file):
+    json_data = []
+
+    with open(rttm_file, 'r') as file:
+        for line in file:
+            fields = line.strip().split()
+            
+            turn_data = {
+                'type': fields[0],
+                'file_id': fields[1],
+                'channel': int(fields[2]),
+                'onset': float(fields[3]),
+                'duration': float(fields[4]),
+                'orthography': fields[5],
+                'speaker_type': fields[6],
+                'speaker_id': fields[7],
+                'confidence': fields[8],
+                'signal_lookahead': fields[9]
+            }
+            
+            json_data.append(turn_data)
+
+    return json.dumps(json_data, indent=2)
+
+# Usage
+if len(sys.argv) != 2:
+    print("Usage: python script_name.py <rttm_file>")
+    sys.exit(1)
+
+# Get RTTM file and filename
+rttm_file = sys.argv[1]
+json_file = os.path.splitext(rttm_file)[0] + '.json'
+
+# Write output to JSON file
+json_output = convert_rttm_to_json(rttm_file)
+with open(json_file, 'w') as file:
+    file.write(json_output)

@@ -1,0 +1,3867 @@
+{
+        "text": "Okay, so then, if we can start again, my question next is, so what does the economic office in particular have to offer to women in this area? So, in general, women in our society were deprived of access to education. They were deprived of having access to the right to being educated or being independent economically or having their own business, so one of the things that we started to do was to provide some basic economical project for them so we can, like, enhance the culture of women having their independent economy. Okay, what did that program teach, or if there are multiple, which things did they teach? Well, via these economical projects, women could have a big opportunity to become more independent economically and financially, and also they now are aware and they know they can have something, have a business themselves. We know women in our society were deprived of inheriting their family heritage, were Society didn't trust women in business because they said women cannot run a business, but now it's different. We see now women are working on their private projects, whether patisserie, whether kindergarten, whether bakeries, and other projects that were allocated for women only, like for women business. The things that you need to teach women in order to run their own business, are these mostly practical things? They need to learn the skills, or is it like they need to learn negotiation with the community so that the community doesn't, you know, that will allow them to run this? So, in our society, the idea of women business wasn't accepted, and especially after ISIS time, like ISIS enhanced this idea that women should stay at their houses and only take care of their families, and not to get out of their houses. So, it was really hard to change this mentality, to tell the society that women also are capable, women can run their own business, women are even like more successful sometimes when they are running their business professionally. We started with giving training for women, like practical training regarding how to, for example, cook, how to do like coiffer work, how to do the sewing work, and like as time passed, this idea became more acceptable by the society because women now, they are helping their society even with the money they earn. And even we have discovered that women are really active in some specific business that are very popular here. For example, the Saj bread, which is very famous and popular here, it belongs to the culture of this region. Now women have more than one patisserie or bakery that are making this kind of bread, and also women who are working in agricultural lands and doing the harvesting and working in the lands, it's very popular here and they have proven that they are able to do this. So here, we encouraged women in engaging in business and we also covered the needs of the society for the work that they are doing and the services they are providing. Yeah, obviously, as people understand that you're capable of doing this,",
+        "task": "transcribe",
+        "language": "english",
+        "duration": 390.989990234375,
+        "segments": [
+            {
+                "id": 0,
+                "seek": 0,
+                "start": 5.679999828338623,
+                "end": 16.68000030517578,
+                "text": " Okay, so then, if we can start again, my question next is, so what does the economic office",
+                "tokens": [
+                    50364,
+                    1033,
+                    11,
+                    370,
+                    550,
+                    11,
+                    498,
+                    321,
+                    393,
+                    722,
+                    797,
+                    11,
+                    452,
+                    1168,
+                    958,
+                    307,
+                    11,
+                    370,
+                    437,
+                    775,
+                    264,
+                    4836,
+                    3398,
+                    51164
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.5284343361854553,
+                "compression_ratio": 1.2909090518951416,
+                "no_speech_prob": 0.0738590881228447
+            },
+            {
+                "id": 1,
+                "seek": 0,
+                "start": 16.68000030517578,
+                "end": 18.700000762939453,
+                "text": " in particular have to offer to women in this area?",
+                "tokens": [
+                    51164,
+                    294,
+                    1729,
+                    362,
+                    281,
+                    2626,
+                    281,
+                    2266,
+                    294,
+                    341,
+                    1859,
+                    30,
+                    51364
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.5284343361854553,
+                "compression_ratio": 1.2909090518951416,
+                "no_speech_prob": 0.0738590881228447
+            },
+            {
+                "id": 2,
+                "seek": 1870,
+                "start": 34.36000061035156,
+                "end": 48.68000030517578,
+                "text": " So, in general, women in our society were deprived of access to education.",
+                "tokens": [
+                    50364,
+                    407,
+                    11,
+                    294,
+                    2674,
+                    11,
+                    2266,
+                    294,
+                    527,
+                    4086,
+                    645,
+                    42086,
+                    295,
+                    2105,
+                    281,
+                    3309,
+                    13,
+                    51664
+                ],
+                "temperature": 0.4000000059604645,
+                "avg_logprob": -0.6065315008163452,
+                "compression_ratio": 1.0277777910232544,
+                "no_speech_prob": 0.7663396000862122
+            },
+            {
+                "id": 3,
+                "seek": 4868,
+                "start": 48.68000030517578,
+                "end": 55.060001373291016,
+                "text": " They were deprived of having access to the right to being educated or being independent",
+                "tokens": [
+                    50364,
+                    814,
+                    645,
+                    42086,
+                    295,
+                    1419,
+                    2105,
+                    281,
+                    264,
+                    558,
+                    281,
+                    885,
+                    15872,
+                    420,
+                    885,
+                    6695,
+                    50614
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.272585391998291,
+                "compression_ratio": 1.686813235282898,
+                "no_speech_prob": 0.20125383138656616
+            },
+            {
+                "id": 4,
+                "seek": 4868,
+                "start": 55.060001373291016,
+                "end": 62.279998779296875,
+                "text": " economically or having their own business, so one of the things that we started to do",
+                "tokens": [
+                    50614,
+                    26811,
+                    420,
+                    1419,
+                    641,
+                    1065,
+                    1606,
+                    11,
+                    370,
+                    472,
+                    295,
+                    264,
+                    721,
+                    300,
+                    321,
+                    1409,
+                    281,
+                    360,
+                    50964
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.272585391998291,
+                "compression_ratio": 1.686813235282898,
+                "no_speech_prob": 0.20125383138656616
+            },
+            {
+                "id": 5,
+                "seek": 4868,
+                "start": 62.279998779296875,
+                "end": 70.76000213623047,
+                "text": " was to provide some basic economical project for them so we can, like, enhance the culture",
+                "tokens": [
+                    50964,
+                    390,
+                    281,
+                    2893,
+                    512,
+                    3875,
+                    42473,
+                    1716,
+                    337,
+                    552,
+                    370,
+                    321,
+                    393,
+                    11,
+                    411,
+                    11,
+                    11985,
+                    264,
+                    3713,
+                    51314
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.272585391998291,
+                "compression_ratio": 1.686813235282898,
+                "no_speech_prob": 0.20125383138656616
+            },
+            {
+                "id": 6,
+                "seek": 4868,
+                "start": 67.68000030517578,
+                "end": 71.68000030517578,
+                "text": " of women having their independent economy.",
+                "tokens": [
+                    51314,
+                    295,
+                    2266,
+                    1419,
+                    641,
+                    6695,
+                    5010,
+                    13,
+                    51514
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.272585391998291,
+                "compression_ratio": 1.686813235282898,
+                "no_speech_prob": 0.20125383138656616
+            },
+            {
+                "id": 7,
+                "seek": 7076,
+                "start": 72.22000122070312,
+                "end": 78.68000030517578,
+                "text": " Okay, what did that program teach, or if there are multiple, which things did they teach?",
+                "tokens": [
+                    50414,
+                    1033,
+                    11,
+                    437,
+                    630,
+                    300,
+                    1461,
+                    2924,
+                    11,
+                    420,
+                    498,
+                    456,
+                    366,
+                    3866,
+                    11,
+                    597,
+                    721,
+                    630,
+                    436,
+                    2924,
+                    30,
+                    50764
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24934139847755432,
+                "compression_ratio": 1.1124999523162842,
+                "no_speech_prob": 0.1645982265472412
+            },
+            {
+                "id": 8,
+                "seek": 10076,
+                "start": 100.76000213623047,
+                "end": 128.32000732421875,
+                "text": " Well,",
+                "tokens": [
+                    50364,
+                    1042,
+                    11,
+                    51764
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.634602963924408,
+                "compression_ratio": 0.38461539149284363,
+                "no_speech_prob": 0.9584567546844482
+            },
+            {
+                "id": 9,
+                "seek": 12832,
+                "start": 129.39999389648438,
+                "end": 141.94000244140625,
+                "text": " via these economical projects, women could have a big opportunity to become more independent",
+                "tokens": [
+                    50364,
+                    5766,
+                    613,
+                    42473,
+                    4455,
+                    11,
+                    2266,
+                    727,
+                    362,
+                    257,
+                    955,
+                    2650,
+                    281,
+                    1813,
+                    544,
+                    6695,
+                    50964
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23584747314453125,
+                "compression_ratio": 1.6149733066558838,
+                "no_speech_prob": 0.19774647057056427
+            },
+            {
+                "id": 10,
+                "seek": 12832,
+                "start": 141.94000244140625,
+                "end": 150.22000122070312,
+                "text": " economically and financially, and also they now are aware and they know they can have",
+                "tokens": [
+                    50964,
+                    26811,
+                    293,
+                    20469,
+                    11,
+                    293,
+                    611,
+                    436,
+                    586,
+                    366,
+                    3650,
+                    293,
+                    436,
+                    458,
+                    436,
+                    393,
+                    362,
+                    51364
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23584747314453125,
+                "compression_ratio": 1.6149733066558838,
+                "no_speech_prob": 0.19774647057056427
+            },
+            {
+                "id": 11,
+                "seek": 12832,
+                "start": 150.22000122070312,
+                "end": 153.0,
+                "text": " something, have a business themselves.",
+                "tokens": [
+                    51364,
+                    746,
+                    11,
+                    362,
+                    257,
+                    1606,
+                    2969,
+                    13,
+                    51514
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23584747314453125,
+                "compression_ratio": 1.6149733066558838,
+                "no_speech_prob": 0.19774647057056427
+            },
+            {
+                "id": 12,
+                "seek": 12832,
+                "start": 153.0,
+                "end": 158.3000030517578,
+                "text": " We know women in our society were deprived of inheriting their family heritage, were",
+                "tokens": [
+                    51514,
+                    492,
+                    458,
+                    2266,
+                    294,
+                    527,
+                    4086,
+                    645,
+                    42086,
+                    295,
+                    9484,
+                    1748,
+                    641,
+                    1605,
+                    16040,
+                    11,
+                    645,
+                    51764
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23584747314453125,
+                "compression_ratio": 1.6149733066558838,
+                "no_speech_prob": 0.19774647057056427
+            },
+            {
+                "id": 13,
+                "seek": 15830,
+                "start": 159.67999267578125,
+                "end": 164.97999572753906,
+                "text": " Society didn't trust women in business because they said women cannot run a business, but",
+                "tokens": [
+                    50414,
+                    13742,
+                    994,
+                    380,
+                    3361,
+                    2266,
+                    294,
+                    1606,
+                    570,
+                    436,
+                    848,
+                    2266,
+                    2644,
+                    1190,
+                    257,
+                    1606,
+                    11,
+                    457,
+                    50664
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 14,
+                "seek": 15830,
+                "start": 164.97999572753906,
+                "end": 166.66000366210938,
+                "text": " now it's different.",
+                "tokens": [
+                    50664,
+                    586,
+                    309,
+                    311,
+                    819,
+                    13,
+                    50714
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 15,
+                "seek": 15830,
+                "start": 166.66000366210938,
+                "end": 175.32000732421875,
+                "text": " We see now women are working on their private projects, whether patisserie, whether kindergarten,",
+                "tokens": [
+                    50714,
+                    492,
+                    536,
+                    586,
+                    2266,
+                    366,
+                    1364,
+                    322,
+                    641,
+                    4551,
+                    4455,
+                    11,
+                    1968,
+                    1947,
+                    891,
+                    17487,
+                    11,
+                    1968,
+                    26671,
+                    11,
+                    51114
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 16,
+                "seek": 15830,
+                "start": 175.32000732421875,
+                "end": 182.13999938964844,
+                "text": " whether bakeries, and other projects that were allocated for women only, like for women",
+                "tokens": [
+                    51114,
+                    1968,
+                    48148,
+                    530,
+                    11,
+                    293,
+                    661,
+                    4455,
+                    300,
+                    645,
+                    29772,
+                    337,
+                    2266,
+                    787,
+                    11,
+                    411,
+                    337,
+                    2266,
+                    51364
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 17,
+                "seek": 15830,
+                "start": 182.13999938964844,
+                "end": 183.05999755859375,
+                "text": " business.",
+                "tokens": [
+                    51364,
+                    1606,
+                    13,
+                    51414
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 18,
+                "seek": 15830,
+                "start": 183.05999755859375,
+                "end": 185.6999969482422,
+                "text": " The things that you need to teach women in order to run their own business, are these",
+                "tokens": [
+                    51414,
+                    440,
+                    721,
+                    300,
+                    291,
+                    643,
+                    281,
+                    2924,
+                    2266,
+                    294,
+                    1668,
+                    281,
+                    1190,
+                    641,
+                    1065,
+                    1606,
+                    11,
+                    366,
+                    613,
+                    51714
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.24141794443130493,
+                "compression_ratio": 1.793578028678894,
+                "no_speech_prob": 0.05495386943221092
+            },
+            {
+                "id": 19,
+                "seek": 18570,
+                "start": 186.10000610351562,
+                "end": 187.4199981689453,
+                "text": " mostly practical things?",
+                "tokens": [
+                    50364,
+                    5240,
+                    8496,
+                    721,
+                    30,
+                    50414
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.25069770216941833,
+                "compression_ratio": 1.515625,
+                "no_speech_prob": 0.7385265827178955
+            },
+            {
+                "id": 20,
+                "seek": 18570,
+                "start": 187.4199981689453,
+                "end": 192.86000061035156,
+                "text": " They need to learn the skills, or is it like they need to learn negotiation with the community",
+                "tokens": [
+                    50414,
+                    814,
+                    643,
+                    281,
+                    1466,
+                    264,
+                    3942,
+                    11,
+                    420,
+                    307,
+                    309,
+                    411,
+                    436,
+                    643,
+                    281,
+                    1466,
+                    27573,
+                    365,
+                    264,
+                    1768,
+                    50664
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.25069770216941833,
+                "compression_ratio": 1.515625,
+                "no_speech_prob": 0.7385265827178955
+            },
+            {
+                "id": 21,
+                "seek": 18570,
+                "start": 192.86000061035156,
+                "end": 196.4600067138672,
+                "text": " so that the community doesn't, you know, that will allow them to run this?",
+                "tokens": [
+                    50664,
+                    370,
+                    300,
+                    264,
+                    1768,
+                    1177,
+                    380,
+                    11,
+                    291,
+                    458,
+                    11,
+                    300,
+                    486,
+                    2089,
+                    552,
+                    281,
+                    1190,
+                    341,
+                    30,
+                    50914
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.25069770216941833,
+                "compression_ratio": 1.515625,
+                "no_speech_prob": 0.7385265827178955
+            },
+            {
+                "id": 22,
+                "seek": 24570,
+                "start": 248.82000732421875,
+                "end": 257.94000244140625,
+                "text": " So, in our society, the idea of women business wasn't accepted, and especially after ISIS",
+                "tokens": [
+                    50414,
+                    407,
+                    11,
+                    294,
+                    527,
+                    4086,
+                    11,
+                    264,
+                    1558,
+                    295,
+                    2266,
+                    1606,
+                    2067,
+                    380,
+                    9035,
+                    11,
+                    293,
+                    2318,
+                    934,
+                    25639,
+                    50964
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21817129850387573,
+                "compression_ratio": 1.6584157943725586,
+                "no_speech_prob": 0.7237470746040344
+            },
+            {
+                "id": 23,
+                "seek": 24570,
+                "start": 258.1199951171875,
+                "end": 263.17999267578125,
+                "text": " time, like ISIS enhanced this idea that women should stay at their houses and only take",
+                "tokens": [
+                    50964,
+                    565,
+                    11,
+                    411,
+                    25639,
+                    21191,
+                    341,
+                    1558,
+                    300,
+                    2266,
+                    820,
+                    1754,
+                    412,
+                    641,
+                    8078,
+                    293,
+                    787,
+                    747,
+                    51164
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21817129850387573,
+                "compression_ratio": 1.6584157943725586,
+                "no_speech_prob": 0.7237470746040344
+            },
+            {
+                "id": 24,
+                "seek": 24570,
+                "start": 263.8800048828125,
+                "end": 269.5199890136719,
+                "text": " care of their families, and not to get out of their houses.",
+                "tokens": [
+                    51164,
+                    1127,
+                    295,
+                    641,
+                    4466,
+                    11,
+                    293,
+                    406,
+                    281,
+                    483,
+                    484,
+                    295,
+                    641,
+                    8078,
+                    13,
+                    51414
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21817129850387573,
+                "compression_ratio": 1.6584157943725586,
+                "no_speech_prob": 0.7237470746040344
+            },
+            {
+                "id": 25,
+                "seek": 24570,
+                "start": 269.5199890136719,
+                "end": 274.6400146484375,
+                "text": " So, it was really hard to change this mentality, to tell the society that women also are capable,",
+                "tokens": [
+                    51414,
+                    407,
+                    11,
+                    309,
+                    390,
+                    534,
+                    1152,
+                    281,
+                    1319,
+                    341,
+                    21976,
+                    11,
+                    281,
+                    980,
+                    264,
+                    4086,
+                    300,
+                    2266,
+                    611,
+                    366,
+                    8189,
+                    11,
+                    51814
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21817129850387573,
+                "compression_ratio": 1.6584157943725586,
+                "no_speech_prob": 0.7237470746040344
+            },
+            {
+                "id": 26,
+                "seek": 27464,
+                "start": 274.6400146484375,
+                "end": 280.6400146484375,
+                "text": " women can run their own business, women are even like more successful sometimes when they",
+                "tokens": [
+                    50364,
+                    2266,
+                    393,
+                    1190,
+                    641,
+                    1065,
+                    1606,
+                    11,
+                    2266,
+                    366,
+                    754,
+                    411,
+                    544,
+                    4406,
+                    2171,
+                    562,
+                    436,
+                    50614
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21634909510612488,
+                "compression_ratio": 1.7102272510528564,
+                "no_speech_prob": 0.03601399436593056
+            },
+            {
+                "id": 27,
+                "seek": 27464,
+                "start": 280.6400146484375,
+                "end": 284.739990234375,
+                "text": " are running their business professionally.",
+                "tokens": [
+                    50614,
+                    366,
+                    2614,
+                    641,
+                    1606,
+                    27941,
+                    13,
+                    50764
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21634909510612488,
+                "compression_ratio": 1.7102272510528564,
+                "no_speech_prob": 0.03601399436593056
+            },
+            {
+                "id": 28,
+                "seek": 27464,
+                "start": 284.739990234375,
+                "end": 291.55999755859375,
+                "text": " We started with giving training for women, like practical training regarding how to,",
+                "tokens": [
+                    50764,
+                    492,
+                    1409,
+                    365,
+                    2902,
+                    3097,
+                    337,
+                    2266,
+                    11,
+                    411,
+                    8496,
+                    3097,
+                    8595,
+                    577,
+                    281,
+                    11,
+                    51114
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21634909510612488,
+                "compression_ratio": 1.7102272510528564,
+                "no_speech_prob": 0.03601399436593056
+            },
+            {
+                "id": 29,
+                "seek": 27464,
+                "start": 291.55999755859375,
+                "end": 299.44000244140625,
+                "text": " for example, cook, how to do like coiffer work, how to do the sewing work, and like",
+                "tokens": [
+                    51114,
+                    337,
+                    1365,
+                    11,
+                    2543,
+                    11,
+                    577,
+                    281,
+                    360,
+                    411,
+                    598,
+                    12612,
+                    589,
+                    11,
+                    577,
+                    281,
+                    360,
+                    264,
+                    19311,
+                    589,
+                    11,
+                    293,
+                    411,
+                    51564
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.21634909510612488,
+                "compression_ratio": 1.7102272510528564,
+                "no_speech_prob": 0.03601399436593056
+            },
+            {
+                "id": 30,
+                "seek": 29944,
+                "start": 299.44000244140625,
+                "end": 306.5199890136719,
+                "text": " as time passed, this idea became more acceptable by the society because women now, they are",
+                "tokens": [
+                    50364,
+                    382,
+                    565,
+                    4678,
+                    11,
+                    341,
+                    1558,
+                    3062,
+                    544,
+                    15513,
+                    538,
+                    264,
+                    4086,
+                    570,
+                    2266,
+                    586,
+                    11,
+                    436,
+                    366,
+                    50664
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.27391523122787476,
+                "compression_ratio": 1.3714286088943481,
+                "no_speech_prob": 0.48005637526512146
+            },
+            {
+                "id": 31,
+                "seek": 29944,
+                "start": 306.5199890136719,
+                "end": 308.55999755859375,
+                "text": " helping their society even with the money they earn.",
+                "tokens": [
+                    50664,
+                    4315,
+                    641,
+                    4086,
+                    754,
+                    365,
+                    264,
+                    1460,
+                    436,
+                    6012,
+                    13,
+                    50814
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.27391523122787476,
+                "compression_ratio": 1.3714286088943481,
+                "no_speech_prob": 0.48005637526512146
+            },
+            {
+                "id": 32,
+                "seek": 32944,
+                "start": 340.20001220703125,
+                "end": 347.1000061035156,
+                "text": " And even we have discovered that women are really active in some specific business that",
+                "tokens": [
+                    50414,
+                    400,
+                    754,
+                    321,
+                    362,
+                    6941,
+                    300,
+                    2266,
+                    366,
+                    534,
+                    4967,
+                    294,
+                    512,
+                    2685,
+                    1606,
+                    300,
+                    51214
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23950710892677307,
+                "compression_ratio": 1.4220778942108154,
+                "no_speech_prob": 0.4521213471889496
+            },
+            {
+                "id": 33,
+                "seek": 32944,
+                "start": 347.1000061035156,
+                "end": 350.2799987792969,
+                "text": " are very popular here.",
+                "tokens": [
+                    51214,
+                    366,
+                    588,
+                    3743,
+                    510,
+                    13,
+                    51264
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23950710892677307,
+                "compression_ratio": 1.4220778942108154,
+                "no_speech_prob": 0.4521213471889496
+            },
+            {
+                "id": 34,
+                "seek": 32944,
+                "start": 350.2799987792969,
+                "end": 355.1400146484375,
+                "text": " For example, the Saj bread, which is very famous and popular here, it belongs to the",
+                "tokens": [
+                    51264,
+                    1171,
+                    1365,
+                    11,
+                    264,
+                    318,
+                    1805,
+                    5961,
+                    11,
+                    597,
+                    307,
+                    588,
+                    4618,
+                    293,
+                    3743,
+                    510,
+                    11,
+                    309,
+                    12953,
+                    281,
+                    264,
+                    51564
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23950710892677307,
+                "compression_ratio": 1.4220778942108154,
+                "no_speech_prob": 0.4521213471889496
+            },
+            {
+                "id": 35,
+                "seek": 32944,
+                "start": 353.44000244140625,
+                "end": 355.44000244140625,
+                "text": " culture of this region.",
+                "tokens": [
+                    51564,
+                    3713,
+                    295,
+                    341,
+                    4458,
+                    13,
+                    51664
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23950710892677307,
+                "compression_ratio": 1.4220778942108154,
+                "no_speech_prob": 0.4521213471889496
+            },
+            {
+                "id": 36,
+                "seek": 35514,
+                "start": 355.1400146484375,
+                "end": 361.4800109863281,
+                "text": " Now women have more than one patisserie or bakery that are making this kind of bread,",
+                "tokens": [
+                    50364,
+                    823,
+                    2266,
+                    362,
+                    544,
+                    813,
+                    472,
+                    1947,
+                    891,
+                    17487,
+                    420,
+                    37519,
+                    300,
+                    366,
+                    1455,
+                    341,
+                    733,
+                    295,
+                    5961,
+                    11,
+                    50614
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23666062951087952,
+                "compression_ratio": 1.8151260614395142,
+                "no_speech_prob": 0.14094136655330658
+            },
+            {
+                "id": 37,
+                "seek": 35514,
+                "start": 361.4800109863281,
+                "end": 367.70001220703125,
+                "text": " and also women who are working in agricultural lands and doing the harvesting and working",
+                "tokens": [
+                    50614,
+                    293,
+                    611,
+                    2266,
+                    567,
+                    366,
+                    1364,
+                    294,
+                    19587,
+                    5949,
+                    293,
+                    884,
+                    264,
+                    35679,
+                    293,
+                    1364,
+                    50914
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23666062951087952,
+                "compression_ratio": 1.8151260614395142,
+                "no_speech_prob": 0.14094136655330658
+            },
+            {
+                "id": 38,
+                "seek": 35514,
+                "start": 368.20001220703125,
+                "end": 376.44000244140625,
+                "text": " in the lands, it's very popular here and they have proven that they are able to do this.",
+                "tokens": [
+                    50914,
+                    294,
+                    264,
+                    5949,
+                    11,
+                    309,
+                    311,
+                    588,
+                    3743,
+                    510,
+                    293,
+                    436,
+                    362,
+                    12785,
+                    300,
+                    436,
+                    366,
+                    1075,
+                    281,
+                    360,
+                    341,
+                    13,
+                    51214
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23666062951087952,
+                "compression_ratio": 1.8151260614395142,
+                "no_speech_prob": 0.14094136655330658
+            },
+            {
+                "id": 39,
+                "seek": 35514,
+                "start": 376.44000244140625,
+                "end": 381.239990234375,
+                "text": " So here, we encouraged women in engaging in business and we also covered the needs of",
+                "tokens": [
+                    51214,
+                    407,
+                    510,
+                    11,
+                    321,
+                    14658,
+                    2266,
+                    294,
+                    11268,
+                    294,
+                    1606,
+                    293,
+                    321,
+                    611,
+                    5343,
+                    264,
+                    2203,
+                    295,
+                    51564
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23666062951087952,
+                "compression_ratio": 1.8151260614395142,
+                "no_speech_prob": 0.14094136655330658
+            },
+            {
+                "id": 40,
+                "seek": 35514,
+                "start": 381.239990234375,
+                "end": 383.4800109863281,
+                "text": " the society for the work that they are doing and the services they are providing.",
+                "tokens": [
+                    51564,
+                    264,
+                    4086,
+                    337,
+                    264,
+                    589,
+                    300,
+                    436,
+                    366,
+                    884,
+                    293,
+                    264,
+                    3328,
+                    436,
+                    366,
+                    6530,
+                    13,
+                    51764
+                ],
+                "temperature": 0.0,
+                "avg_logprob": -0.23666062951087952,
+                "compression_ratio": 1.8151260614395142,
+                "no_speech_prob": 0.14094136655330658
+            },
+            {
+                "id": 41,
+                "seek": 38348,
+                "start": 385.3999938964844,
+                "end": 390.9599914550781,
+                "text": " Yeah, obviously, as people understand that you're capable of doing this,",
+                "tokens": [
+                    50364,
+                    865,
+                    11,
+                    2745,
+                    11,
+                    382,
+                    561,
+                    1223,
+                    300,
+                    291,
+                    434,
+                    8189,
+                    295,
+                    884,
+                    341,
+                    11,
+                    50664
+                ],
+                "temperature": 0.6000000238418579,
+                "avg_logprob": -0.9511650800704956,
+                "compression_ratio": 1.0,
+                "no_speech_prob": 0.8617459535598755
+            }
+        ],
+        "words": [
+            {
+                "word": "Okay",
+                "start": 5.679999828338623,
+                "end": 6.480000019073486
+            },
+            {
+                "word": "so",
+                "start": 6.900000095367432,
+                "end": 7.199999809265137
+            },
+            {
+                "word": "then",
+                "start": 7.199999809265137,
+                "end": 7.639999866485596
+            },
+            {
+                "word": "if",
+                "start": 8.199999809265137,
+                "end": 8.460000038146973
+            },
+            {
+                "word": "we",
+                "start": 8.460000038146973,
+                "end": 8.460000038146973
+            },
+            {
+                "word": "can",
+                "start": 8.460000038146973,
+                "end": 8.619999885559082
+            },
+            {
+                "word": "start",
+                "start": 8.619999885559082,
+                "end": 8.800000190734863
+            },
+            {
+                "word": "again",
+                "start": 8.800000190734863,
+                "end": 9.100000381469727
+            },
+            {
+                "word": "my",
+                "start": 9.140000343322754,
+                "end": 9.34000015258789
+            },
+            {
+                "word": "question",
+                "start": 9.34000015258789,
+                "end": 10.079999923706055
+            },
+            {
+                "word": "next",
+                "start": 10.079999923706055,
+                "end": 10.760000228881836
+            },
+            {
+                "word": "is",
+                "start": 10.760000228881836,
+                "end": 12.0
+            },
+            {
+                "word": "so",
+                "start": 12.479999542236328,
+                "end": 13.539999961853027
+            },
+            {
+                "word": "what",
+                "start": 13.539999961853027,
+                "end": 13.920000076293945
+            },
+            {
+                "word": "does",
+                "start": 13.920000076293945,
+                "end": 14.220000267028809
+            },
+            {
+                "word": "the",
+                "start": 14.220000267028809,
+                "end": 14.859999656677246
+            },
+            {
+                "word": "economic",
+                "start": 14.859999656677246,
+                "end": 15.220000267028809
+            },
+            {
+                "word": "office",
+                "start": 15.220000267028809,
+                "end": 15.779999732971191
+            },
+            {
+                "word": "in",
+                "start": 15.779999732971191,
+                "end": 16.18000030517578
+            },
+            {
+                "word": "particular",
+                "start": 16.18000030517578,
+                "end": 16.68000030517578
+            },
+            {
+                "word": "have",
+                "start": 16.68000030517578,
+                "end": 17.100000381469727
+            },
+            {
+                "word": "to",
+                "start": 17.100000381469727,
+                "end": 17.5
+            },
+            {
+                "word": "offer",
+                "start": 17.5,
+                "end": 17.5
+            },
+            {
+                "word": "to",
+                "start": 17.5,
+                "end": 17.920000076293945
+            },
+            {
+                "word": "women",
+                "start": 17.920000076293945,
+                "end": 17.959999084472656
+            },
+            {
+                "word": "in",
+                "start": 17.959999084472656,
+                "end": 18.18000030517578
+            },
+            {
+                "word": "this",
+                "start": 18.18000030517578,
+                "end": 18.520000457763672
+            },
+            {
+                "word": "area",
+                "start": 18.520000457763672,
+                "end": 18.700000762939453
+            },
+            {
+                "word": "So",
+                "start": 34.36000061035156,
+                "end": 35.13999938964844
+            },
+            {
+                "word": "in",
+                "start": 25.3799991607666,
+                "end": 35.91999816894531
+            },
+            {
+                "word": "general",
+                "start": 35.91999816894531,
+                "end": 46.58000183105469
+            },
+            {
+                "word": "women",
+                "start": 46.939998626708984,
+                "end": 46.97999954223633
+            },
+            {
+                "word": "in",
+                "start": 46.97999954223633,
+                "end": 47.15999984741211
+            },
+            {
+                "word": "our",
+                "start": 47.15999984741211,
+                "end": 47.459999084472656
+            },
+            {
+                "word": "society",
+                "start": 47.459999084472656,
+                "end": 47.959999084472656
+            },
+            {
+                "word": "were",
+                "start": 47.959999084472656,
+                "end": 48.2599983215332
+            },
+            {
+                "word": "deprived",
+                "start": 48.2599983215332,
+                "end": 48.68000030517578
+            },
+            {
+                "word": "of",
+                "start": 48.68000030517578,
+                "end": 48.68000030517578
+            },
+            {
+                "word": "access",
+                "start": 48.68000030517578,
+                "end": 48.68000030517578
+            },
+            {
+                "word": "to",
+                "start": 48.68000030517578,
+                "end": 48.68000030517578
+            },
+            {
+                "word": "education",
+                "start": 48.68000030517578,
+                "end": 48.68000030517578
+            },
+            {
+                "word": "They",
+                "start": 48.68000030517578,
+                "end": 48.900001525878906
+            },
+            {
+                "word": "were",
+                "start": 48.900001525878906,
+                "end": 48.900001525878906
+            },
+            {
+                "word": "deprived",
+                "start": 48.900001525878906,
+                "end": 48.900001525878906
+            },
+            {
+                "word": "of",
+                "start": 48.900001525878906,
+                "end": 49.13999938964844
+            },
+            {
+                "word": "having",
+                "start": 49.13999938964844,
+                "end": 49.459999084472656
+            },
+            {
+                "word": "access",
+                "start": 49.459999084472656,
+                "end": 49.86000061035156
+            },
+            {
+                "word": "to",
+                "start": 49.86000061035156,
+                "end": 50.099998474121094
+            },
+            {
+                "word": "the",
+                "start": 50.099998474121094,
+                "end": 50.2400016784668
+            },
+            {
+                "word": "right",
+                "start": 50.2400016784668,
+                "end": 50.52000045776367
+            },
+            {
+                "word": "to",
+                "start": 50.52000045776367,
+                "end": 50.779998779296875
+            },
+            {
+                "word": "being",
+                "start": 50.779998779296875,
+                "end": 51.52000045776367
+            },
+            {
+                "word": "educated",
+                "start": 51.52000045776367,
+                "end": 52.08000183105469
+            },
+            {
+                "word": "or",
+                "start": 52.08000183105469,
+                "end": 52.79999923706055
+            },
+            {
+                "word": "being",
+                "start": 52.79999923706055,
+                "end": 53.119998931884766
+            },
+            {
+                "word": "independent",
+                "start": 53.119998931884766,
+                "end": 53.68000030517578
+            },
+            {
+                "word": "economically",
+                "start": 53.68000030517578,
+                "end": 54.400001525878906
+            },
+            {
+                "word": "or",
+                "start": 54.400001525878906,
+                "end": 55.060001373291016
+            },
+            {
+                "word": "having",
+                "start": 55.060001373291016,
+                "end": 56.0
+            },
+            {
+                "word": "their",
+                "start": 56.0,
+                "end": 56.2400016784668
+            },
+            {
+                "word": "own",
+                "start": 56.2400016784668,
+                "end": 56.58000183105469
+            },
+            {
+                "word": "business",
+                "start": 56.58000183105469,
+                "end": 56.959999084472656
+            },
+            {
+                "word": "so",
+                "start": 57.5,
+                "end": 57.720001220703125
+            },
+            {
+                "word": "one",
+                "start": 57.720001220703125,
+                "end": 57.939998626708984
+            },
+            {
+                "word": "of",
+                "start": 57.939998626708984,
+                "end": 58.29999923706055
+            },
+            {
+                "word": "the",
+                "start": 58.29999923706055,
+                "end": 59.68000030517578
+            },
+            {
+                "word": "things",
+                "start": 59.68000030517578,
+                "end": 59.939998626708984
+            },
+            {
+                "word": "that",
+                "start": 59.939998626708984,
+                "end": 60.18000030517578
+            },
+            {
+                "word": "we",
+                "start": 60.18000030517578,
+                "end": 60.400001525878906
+            },
+            {
+                "word": "started",
+                "start": 60.400001525878906,
+                "end": 60.65999984741211
+            },
+            {
+                "word": "to",
+                "start": 60.65999984741211,
+                "end": 60.91999816894531
+            },
+            {
+                "word": "do",
+                "start": 60.91999816894531,
+                "end": 61.099998474121094
+            },
+            {
+                "word": "was",
+                "start": 61.099998474121094,
+                "end": 61.31999969482422
+            },
+            {
+                "word": "to",
+                "start": 61.31999969482422,
+                "end": 61.91999816894531
+            },
+            {
+                "word": "provide",
+                "start": 61.91999816894531,
+                "end": 61.91999816894531
+            },
+            {
+                "word": "some",
+                "start": 61.91999816894531,
+                "end": 62.279998779296875
+            },
+            {
+                "word": "basic",
+                "start": 62.279998779296875,
+                "end": 63.13999938964844
+            },
+            {
+                "word": "economical",
+                "start": 63.13999938964844,
+                "end": 63.63999938964844
+            },
+            {
+                "word": "project",
+                "start": 63.63999938964844,
+                "end": 64.16000366210938
+            },
+            {
+                "word": "for",
+                "start": 64.16000366210938,
+                "end": 64.4000015258789
+            },
+            {
+                "word": "them",
+                "start": 64.4000015258789,
+                "end": 64.58000183105469
+            },
+            {
+                "word": "so",
+                "start": 64.58000183105469,
+                "end": 64.9000015258789
+            },
+            {
+                "word": "we",
+                "start": 64.9000015258789,
+                "end": 65.12000274658203
+            },
+            {
+                "word": "can",
+                "start": 65.12000274658203,
+                "end": 65.68000030517578
+            },
+            {
+                "word": "like",
+                "start": 65.68000030517578,
+                "end": 67.05999755859375
+            },
+            {
+                "word": "enhance",
+                "start": 67.33999633789062,
+                "end": 67.33999633789062
+            },
+            {
+                "word": "the",
+                "start": 67.33999633789062,
+                "end": 68.12000274658203
+            },
+            {
+                "word": "culture",
+                "start": 68.12000274658203,
+                "end": 68.12000274658203
+            },
+            {
+                "word": "of",
+                "start": 68.12000274658203,
+                "end": 68.73999786376953
+            },
+            {
+                "word": "women",
+                "start": 68.73999786376953,
+                "end": 68.87999725341797
+            },
+            {
+                "word": "having",
+                "start": 68.87999725341797,
+                "end": 69.26000213623047
+            },
+            {
+                "word": "their",
+                "start": 69.26000213623047,
+                "end": 69.73999786376953
+            },
+            {
+                "word": "independent",
+                "start": 69.73999786376953,
+                "end": 70.22000122070312
+            },
+            {
+                "word": "economy",
+                "start": 70.22000122070312,
+                "end": 70.76000213623047
+            },
+            {
+                "word": "Okay",
+                "start": 72.22000122070312,
+                "end": 72.86000061035156
+            },
+            {
+                "word": "what",
+                "start": 72.31999969482422,
+                "end": 73.5
+            },
+            {
+                "word": "did",
+                "start": 73.5,
+                "end": 74.5999984741211
+            },
+            {
+                "word": "that",
+                "start": 74.5999984741211,
+                "end": 74.87999725341797
+            },
+            {
+                "word": "program",
+                "start": 74.87999725341797,
+                "end": 75.30000305175781
+            },
+            {
+                "word": "teach",
+                "start": 75.30000305175781,
+                "end": 75.77999877929688
+            },
+            {
+                "word": "or",
+                "start": 76.13999938964844,
+                "end": 76.4000015258789
+            },
+            {
+                "word": "if",
+                "start": 76.4000015258789,
+                "end": 76.5999984741211
+            },
+            {
+                "word": "there",
+                "start": 76.5999984741211,
+                "end": 76.68000030517578
+            },
+            {
+                "word": "are",
+                "start": 76.68000030517578,
+                "end": 76.80000305175781
+            },
+            {
+                "word": "multiple",
+                "start": 76.80000305175781,
+                "end": 77.05999755859375
+            },
+            {
+                "word": "which",
+                "start": 77.27999877929688,
+                "end": 77.73999786376953
+            },
+            {
+                "word": "things",
+                "start": 77.73999786376953,
+                "end": 78.05999755859375
+            },
+            {
+                "word": "did",
+                "start": 78.05999755859375,
+                "end": 78.22000122070312
+            },
+            {
+                "word": "they",
+                "start": 78.22000122070312,
+                "end": 78.55999755859375
+            },
+            {
+                "word": "teach",
+                "start": 78.55999755859375,
+                "end": 78.68000030517578
+            },
+            {
+                "word": "Well",
+                "start": 100.76000213623047,
+                "end": 128.32000732421875
+            },
+            {
+                "word": "via",
+                "start": 129.39999389648438,
+                "end": 130.27999877929688
+            },
+            {
+                "word": "these",
+                "start": 130.27999877929688,
+                "end": 130.89999389648438
+            },
+            {
+                "word": "economical",
+                "start": 130.89999389648438,
+                "end": 131.82000732421875
+            },
+            {
+                "word": "projects",
+                "start": 131.82000732421875,
+                "end": 132.74000549316406
+            },
+            {
+                "word": "women",
+                "start": 134.0399932861328,
+                "end": 134.05999755859375
+            },
+            {
+                "word": "could",
+                "start": 134.05999755859375,
+                "end": 136.82000732421875
+            },
+            {
+                "word": "have",
+                "start": 136.82000732421875,
+                "end": 137.10000610351562
+            },
+            {
+                "word": "a",
+                "start": 137.10000610351562,
+                "end": 137.1999969482422
+            },
+            {
+                "word": "big",
+                "start": 137.1999969482422,
+                "end": 137.5
+            },
+            {
+                "word": "opportunity",
+                "start": 137.5,
+                "end": 138.1199951171875
+            },
+            {
+                "word": "to",
+                "start": 138.1199951171875,
+                "end": 139.10000610351562
+            },
+            {
+                "word": "become",
+                "start": 139.10000610351562,
+                "end": 139.6199951171875
+            },
+            {
+                "word": "more",
+                "start": 139.6199951171875,
+                "end": 140.05999755859375
+            },
+            {
+                "word": "independent",
+                "start": 140.05999755859375,
+                "end": 140.6999969482422
+            },
+            {
+                "word": "economically",
+                "start": 140.6999969482422,
+                "end": 141.47999572753906
+            },
+            {
+                "word": "and",
+                "start": 141.47999572753906,
+                "end": 141.94000244140625
+            },
+            {
+                "word": "financially",
+                "start": 141.94000244140625,
+                "end": 142.39999389648438
+            },
+            {
+                "word": "and",
+                "start": 142.72000122070312,
+                "end": 142.72000122070312
+            },
+            {
+                "word": "also",
+                "start": 142.72000122070312,
+                "end": 143.17999267578125
+            },
+            {
+                "word": "they",
+                "start": 143.17999267578125,
+                "end": 144.33999633789062
+            },
+            {
+                "word": "now",
+                "start": 144.33999633789062,
+                "end": 144.6999969482422
+            },
+            {
+                "word": "are",
+                "start": 144.6999969482422,
+                "end": 145.13999938964844
+            },
+            {
+                "word": "aware",
+                "start": 145.13999938964844,
+                "end": 145.75999450683594
+            },
+            {
+                "word": "and",
+                "start": 145.75999450683594,
+                "end": 146.5
+            },
+            {
+                "word": "they",
+                "start": 146.5,
+                "end": 147.0
+            },
+            {
+                "word": "know",
+                "start": 147.0,
+                "end": 147.27999877929688
+            },
+            {
+                "word": "they",
+                "start": 147.27999877929688,
+                "end": 147.60000610351562
+            },
+            {
+                "word": "can",
+                "start": 147.60000610351562,
+                "end": 147.82000732421875
+            },
+            {
+                "word": "have",
+                "start": 147.82000732421875,
+                "end": 148.55999755859375
+            },
+            {
+                "word": "something",
+                "start": 148.55999755859375,
+                "end": 149.17999267578125
+            },
+            {
+                "word": "have",
+                "start": 149.9199981689453,
+                "end": 149.9199981689453
+            },
+            {
+                "word": "a",
+                "start": 149.9199981689453,
+                "end": 150.22000122070312
+            },
+            {
+                "word": "business",
+                "start": 150.22000122070312,
+                "end": 150.5
+            },
+            {
+                "word": "themselves",
+                "start": 150.5,
+                "end": 151.13999938964844
+            },
+            {
+                "word": "We",
+                "start": 151.32000732421875,
+                "end": 151.44000244140625
+            },
+            {
+                "word": "know",
+                "start": 151.44000244140625,
+                "end": 151.72000122070312
+            },
+            {
+                "word": "women",
+                "start": 151.72000122070312,
+                "end": 152.1999969482422
+            },
+            {
+                "word": "in",
+                "start": 152.1999969482422,
+                "end": 152.32000732421875
+            },
+            {
+                "word": "our",
+                "start": 152.32000732421875,
+                "end": 152.72000122070312
+            },
+            {
+                "word": "society",
+                "start": 152.72000122070312,
+                "end": 153.0
+            },
+            {
+                "word": "were",
+                "start": 153.0,
+                "end": 153.4199981689453
+            },
+            {
+                "word": "deprived",
+                "start": 153.4199981689453,
+                "end": 153.82000732421875
+            },
+            {
+                "word": "of",
+                "start": 153.82000732421875,
+                "end": 154.77999877929688
+            },
+            {
+                "word": "inheriting",
+                "start": 154.77999877929688,
+                "end": 155.13999938964844
+            },
+            {
+                "word": "their",
+                "start": 155.13999938964844,
+                "end": 155.47999572753906
+            },
+            {
+                "word": "family",
+                "start": 155.47999572753906,
+                "end": 155.8800048828125
+            },
+            {
+                "word": "heritage",
+                "start": 155.8800048828125,
+                "end": 156.17999267578125
+            },
+            {
+                "word": "were",
+                "start": 156.6199951171875,
+                "end": 158.3000030517578
+            },
+            {
+                "word": "Society",
+                "start": 159.67999267578125,
+                "end": 160.27999877929688
+            },
+            {
+                "word": "didn't",
+                "start": 160.27999877929688,
+                "end": 160.47999572753906
+            },
+            {
+                "word": "trust",
+                "start": 160.47999572753906,
+                "end": 160.8800048828125
+            },
+            {
+                "word": "women",
+                "start": 160.8800048828125,
+                "end": 161.13999938964844
+            },
+            {
+                "word": "in",
+                "start": 161.13999938964844,
+                "end": 161.52000427246094
+            },
+            {
+                "word": "business",
+                "start": 161.52000427246094,
+                "end": 161.82000732421875
+            },
+            {
+                "word": "because",
+                "start": 161.82000732421875,
+                "end": 162.25999450683594
+            },
+            {
+                "word": "they",
+                "start": 162.25999450683594,
+                "end": 162.52000427246094
+            },
+            {
+                "word": "said",
+                "start": 162.52000427246094,
+                "end": 162.74000549316406
+            },
+            {
+                "word": "women",
+                "start": 162.74000549316406,
+                "end": 162.94000244140625
+            },
+            {
+                "word": "cannot",
+                "start": 162.94000244140625,
+                "end": 163.32000732421875
+            },
+            {
+                "word": "run",
+                "start": 163.32000732421875,
+                "end": 163.55999755859375
+            },
+            {
+                "word": "a",
+                "start": 163.55999755859375,
+                "end": 164.05999755859375
+            },
+            {
+                "word": "business",
+                "start": 164.05999755859375,
+                "end": 164.05999755859375
+            },
+            {
+                "word": "but",
+                "start": 164.13999938964844,
+                "end": 164.5
+            },
+            {
+                "word": "now",
+                "start": 164.5,
+                "end": 164.74000549316406
+            },
+            {
+                "word": "it's",
+                "start": 164.74000549316406,
+                "end": 164.97999572753906
+            },
+            {
+                "word": "different",
+                "start": 164.97999572753906,
+                "end": 165.27999877929688
+            },
+            {
+                "word": "We",
+                "start": 165.5399932861328,
+                "end": 165.5399932861328
+            },
+            {
+                "word": "see",
+                "start": 165.5399932861328,
+                "end": 166.16000366210938
+            },
+            {
+                "word": "now",
+                "start": 166.16000366210938,
+                "end": 166.47999572753906
+            },
+            {
+                "word": "women",
+                "start": 166.47999572753906,
+                "end": 166.66000366210938
+            },
+            {
+                "word": "are",
+                "start": 166.66000366210938,
+                "end": 167.32000732421875
+            },
+            {
+                "word": "working",
+                "start": 167.32000732421875,
+                "end": 168.1199951171875
+            },
+            {
+                "word": "on",
+                "start": 168.1199951171875,
+                "end": 168.55999755859375
+            },
+            {
+                "word": "their",
+                "start": 168.55999755859375,
+                "end": 169.32000732421875
+            },
+            {
+                "word": "private",
+                "start": 169.32000732421875,
+                "end": 169.6999969482422
+            },
+            {
+                "word": "projects",
+                "start": 169.6999969482422,
+                "end": 170.27999877929688
+            },
+            {
+                "word": "whether",
+                "start": 170.67999267578125,
+                "end": 170.9600067138672
+            },
+            {
+                "word": "patisserie",
+                "start": 170.9600067138672,
+                "end": 171.63999938964844
+            },
+            {
+                "word": "whether",
+                "start": 172.0800018310547,
+                "end": 172.3800048828125
+            },
+            {
+                "word": "kindergarten",
+                "start": 172.3800048828125,
+                "end": 173.0399932861328
+            },
+            {
+                "word": "whether",
+                "start": 173.4199981689453,
+                "end": 173.83999633789062
+            },
+            {
+                "word": "bakeries",
+                "start": 173.83999633789062,
+                "end": 174.44000244140625
+            },
+            {
+                "word": "and",
+                "start": 174.5399932861328,
+                "end": 174.72000122070312
+            },
+            {
+                "word": "other",
+                "start": 174.72000122070312,
+                "end": 175.32000732421875
+            },
+            {
+                "word": "projects",
+                "start": 175.32000732421875,
+                "end": 175.77999877929688
+            },
+            {
+                "word": "that",
+                "start": 175.77999877929688,
+                "end": 176.1199951171875
+            },
+            {
+                "word": "were",
+                "start": 176.1199951171875,
+                "end": 176.3000030517578
+            },
+            {
+                "word": "allocated",
+                "start": 176.3000030517578,
+                "end": 176.83999633789062
+            },
+            {
+                "word": "for",
+                "start": 176.83999633789062,
+                "end": 177.75999450683594
+            },
+            {
+                "word": "women",
+                "start": 177.75999450683594,
+                "end": 177.97999572753906
+            },
+            {
+                "word": "only",
+                "start": 177.97999572753906,
+                "end": 178.24000549316406
+            },
+            {
+                "word": "like",
+                "start": 178.3000030517578,
+                "end": 178.5399932861328
+            },
+            {
+                "word": "for",
+                "start": 178.5399932861328,
+                "end": 178.75999450683594
+            },
+            {
+                "word": "women",
+                "start": 178.75999450683594,
+                "end": 178.9199981689453
+            },
+            {
+                "word": "business",
+                "start": 178.9199981689453,
+                "end": 179.32000732421875
+            },
+            {
+                "word": "The",
+                "start": 179.74000549316406,
+                "end": 181.02000427246094
+            },
+            {
+                "word": "things",
+                "start": 181.02000427246094,
+                "end": 181.36000061035156
+            },
+            {
+                "word": "that",
+                "start": 181.36000061035156,
+                "end": 181.66000366210938
+            },
+            {
+                "word": "you",
+                "start": 181.66000366210938,
+                "end": 181.82000732421875
+            },
+            {
+                "word": "need",
+                "start": 181.82000732421875,
+                "end": 181.9600067138672
+            },
+            {
+                "word": "to",
+                "start": 181.9600067138672,
+                "end": 182.13999938964844
+            },
+            {
+                "word": "teach",
+                "start": 182.13999938964844,
+                "end": 182.36000061035156
+            },
+            {
+                "word": "women",
+                "start": 182.36000061035156,
+                "end": 182.66000366210938
+            },
+            {
+                "word": "in",
+                "start": 182.66000366210938,
+                "end": 182.89999389648438
+            },
+            {
+                "word": "order",
+                "start": 182.89999389648438,
+                "end": 183.05999755859375
+            },
+            {
+                "word": "to",
+                "start": 183.05999755859375,
+                "end": 183.24000549316406
+            },
+            {
+                "word": "run",
+                "start": 183.24000549316406,
+                "end": 183.36000061035156
+            },
+            {
+                "word": "their",
+                "start": 183.36000061035156,
+                "end": 183.5800018310547
+            },
+            {
+                "word": "own",
+                "start": 183.5800018310547,
+                "end": 183.77999877929688
+            },
+            {
+                "word": "business",
+                "start": 183.77999877929688,
+                "end": 184.16000366210938
+            },
+            {
+                "word": "are",
+                "start": 184.67999267578125,
+                "end": 185.4199981689453
+            },
+            {
+                "word": "these",
+                "start": 185.4199981689453,
+                "end": 185.6999969482422
+            },
+            {
+                "word": "mostly",
+                "start": 186.10000610351562,
+                "end": 186.5800018310547
+            },
+            {
+                "word": "practical",
+                "start": 186.5800018310547,
+                "end": 186.63999938964844
+            },
+            {
+                "word": "things",
+                "start": 186.63999938964844,
+                "end": 187.05999755859375
+            },
+            {
+                "word": "They",
+                "start": 187.3000030517578,
+                "end": 187.3000030517578
+            },
+            {
+                "word": "need",
+                "start": 187.3000030517578,
+                "end": 187.4199981689453
+            },
+            {
+                "word": "to",
+                "start": 187.4199981689453,
+                "end": 187.55999755859375
+            },
+            {
+                "word": "learn",
+                "start": 187.55999755859375,
+                "end": 187.6999969482422
+            },
+            {
+                "word": "the",
+                "start": 187.6999969482422,
+                "end": 187.94000244140625
+            },
+            {
+                "word": "skills",
+                "start": 187.94000244140625,
+                "end": 188.1999969482422
+            },
+            {
+                "word": "or",
+                "start": 188.6199951171875,
+                "end": 188.75999450683594
+            },
+            {
+                "word": "is",
+                "start": 188.75999450683594,
+                "end": 188.83999633789062
+            },
+            {
+                "word": "it",
+                "start": 188.83999633789062,
+                "end": 189.02000427246094
+            },
+            {
+                "word": "like",
+                "start": 189.02000427246094,
+                "end": 189.17999267578125
+            },
+            {
+                "word": "they",
+                "start": 189.17999267578125,
+                "end": 189.32000732421875
+            },
+            {
+                "word": "need",
+                "start": 189.32000732421875,
+                "end": 189.47999572753906
+            },
+            {
+                "word": "to",
+                "start": 189.47999572753906,
+                "end": 189.66000366210938
+            },
+            {
+                "word": "learn",
+                "start": 189.66000366210938,
+                "end": 190.02000427246094
+            },
+            {
+                "word": "negotiation",
+                "start": 190.02000427246094,
+                "end": 190.83999633789062
+            },
+            {
+                "word": "with",
+                "start": 190.83999633789062,
+                "end": 191.3000030517578
+            },
+            {
+                "word": "the",
+                "start": 191.3000030517578,
+                "end": 191.5
+            },
+            {
+                "word": "community",
+                "start": 191.5,
+                "end": 191.83999633789062
+            },
+            {
+                "word": "so",
+                "start": 191.83999633789062,
+                "end": 192.13999938964844
+            },
+            {
+                "word": "that",
+                "start": 192.13999938964844,
+                "end": 192.33999633789062
+            },
+            {
+                "word": "the",
+                "start": 192.33999633789062,
+                "end": 192.5
+            },
+            {
+                "word": "community",
+                "start": 192.5,
+                "end": 192.86000061035156
+            },
+            {
+                "word": "doesn't",
+                "start": 192.86000061035156,
+                "end": 194.1199951171875
+            },
+            {
+                "word": "you",
+                "start": 194.3000030517578,
+                "end": 194.82000732421875
+            },
+            {
+                "word": "know",
+                "start": 194.82000732421875,
+                "end": 194.82000732421875
+            },
+            {
+                "word": "that",
+                "start": 194.82000732421875,
+                "end": 194.94000244140625
+            },
+            {
+                "word": "will",
+                "start": 194.94000244140625,
+                "end": 195.17999267578125
+            },
+            {
+                "word": "allow",
+                "start": 195.17999267578125,
+                "end": 195.5399932861328
+            },
+            {
+                "word": "them",
+                "start": 195.5399932861328,
+                "end": 195.75999450683594
+            },
+            {
+                "word": "to",
+                "start": 195.75999450683594,
+                "end": 195.89999389648438
+            },
+            {
+                "word": "run",
+                "start": 195.89999389648438,
+                "end": 196.13999938964844
+            },
+            {
+                "word": "this",
+                "start": 196.13999938964844,
+                "end": 196.4600067138672
+            },
+            {
+                "word": "So",
+                "start": 248.82000732421875,
+                "end": 249.4600067138672
+            },
+            {
+                "word": "in",
+                "start": 249.8800048828125,
+                "end": 250.10000610351562
+            },
+            {
+                "word": "our",
+                "start": 250.10000610351562,
+                "end": 250.47999572753906
+            },
+            {
+                "word": "society",
+                "start": 250.47999572753906,
+                "end": 251.02000427246094
+            },
+            {
+                "word": "the",
+                "start": 251.9600067138672,
+                "end": 252.0
+            },
+            {
+                "word": "idea",
+                "start": 252.0,
+                "end": 252.4600067138672
+            },
+            {
+                "word": "of",
+                "start": 252.4600067138672,
+                "end": 253.44000244140625
+            },
+            {
+                "word": "women",
+                "start": 253.44000244140625,
+                "end": 254.25999450683594
+            },
+            {
+                "word": "business",
+                "start": 254.25999450683594,
+                "end": 254.72000122070312
+            },
+            {
+                "word": "wasn't",
+                "start": 254.72000122070312,
+                "end": 255.05999755859375
+            },
+            {
+                "word": "accepted",
+                "start": 255.05999755859375,
+                "end": 255.5399932861328
+            },
+            {
+                "word": "and",
+                "start": 256.4599914550781,
+                "end": 256.4599914550781
+            },
+            {
+                "word": "especially",
+                "start": 256.4599914550781,
+                "end": 256.7799987792969
+            },
+            {
+                "word": "after",
+                "start": 256.7799987792969,
+                "end": 257.1600036621094
+            },
+            {
+                "word": "ISIS",
+                "start": 257.1600036621094,
+                "end": 257.4599914550781
+            },
+            {
+                "word": "time",
+                "start": 257.4599914550781,
+                "end": 257.94000244140625
+            },
+            {
+                "word": "like",
+                "start": 258.1199951171875,
+                "end": 258.7799987792969
+            },
+            {
+                "word": "ISIS",
+                "start": 258.7799987792969,
+                "end": 258.7799987792969
+            },
+            {
+                "word": "enhanced",
+                "start": 258.7799987792969,
+                "end": 259.2799987792969
+            },
+            {
+                "word": "this",
+                "start": 259.2799987792969,
+                "end": 259.7799987792969
+            },
+            {
+                "word": "idea",
+                "start": 259.7799987792969,
+                "end": 259.94000244140625
+            },
+            {
+                "word": "that",
+                "start": 259.94000244140625,
+                "end": 260.260009765625
+            },
+            {
+                "word": "women",
+                "start": 260.260009765625,
+                "end": 260.3999938964844
+            },
+            {
+                "word": "should",
+                "start": 260.3999938964844,
+                "end": 260.6600036621094
+            },
+            {
+                "word": "stay",
+                "start": 260.6600036621094,
+                "end": 260.9200134277344
+            },
+            {
+                "word": "at",
+                "start": 260.9200134277344,
+                "end": 261.05999755859375
+            },
+            {
+                "word": "their",
+                "start": 261.05999755859375,
+                "end": 261.55999755859375
+            },
+            {
+                "word": "houses",
+                "start": 261.55999755859375,
+                "end": 261.55999755859375
+            },
+            {
+                "word": "and",
+                "start": 261.55999755859375,
+                "end": 261.7799987792969
+            },
+            {
+                "word": "only",
+                "start": 261.7799987792969,
+                "end": 262.0400085449219
+            },
+            {
+                "word": "take",
+                "start": 262.0400085449219,
+                "end": 262.260009765625
+            },
+            {
+                "word": "care",
+                "start": 262.260009765625,
+                "end": 262.3399963378906
+            },
+            {
+                "word": "of",
+                "start": 262.3399963378906,
+                "end": 262.44000244140625
+            },
+            {
+                "word": "their",
+                "start": 262.44000244140625,
+                "end": 262.7799987792969
+            },
+            {
+                "word": "families",
+                "start": 262.7799987792969,
+                "end": 263.17999267578125
+            },
+            {
+                "word": "and",
+                "start": 263.8800048828125,
+                "end": 264.32000732421875
+            },
+            {
+                "word": "not",
+                "start": 264.32000732421875,
+                "end": 264.5
+            },
+            {
+                "word": "to",
+                "start": 264.5,
+                "end": 264.7200012207031
+            },
+            {
+                "word": "get",
+                "start": 264.7200012207031,
+                "end": 264.8599853515625
+            },
+            {
+                "word": "out",
+                "start": 264.8599853515625,
+                "end": 265.1199951171875
+            },
+            {
+                "word": "of",
+                "start": 265.1199951171875,
+                "end": 265.2799987792969
+            },
+            {
+                "word": "their",
+                "start": 265.2799987792969,
+                "end": 266.0400085449219
+            },
+            {
+                "word": "houses",
+                "start": 266.0400085449219,
+                "end": 266.0400085449219
+            },
+            {
+                "word": "So",
+                "start": 266.6000061035156,
+                "end": 267.55999755859375
+            },
+            {
+                "word": "it",
+                "start": 267.6000061035156,
+                "end": 268.7200012207031
+            },
+            {
+                "word": "was",
+                "start": 268.7200012207031,
+                "end": 268.9200134277344
+            },
+            {
+                "word": "really",
+                "start": 268.9200134277344,
+                "end": 269.2200012207031
+            },
+            {
+                "word": "hard",
+                "start": 269.2200012207031,
+                "end": 269.5199890136719
+            },
+            {
+                "word": "to",
+                "start": 269.5199890136719,
+                "end": 270.5400085449219
+            },
+            {
+                "word": "change",
+                "start": 270.5400085449219,
+                "end": 270.94000244140625
+            },
+            {
+                "word": "this",
+                "start": 270.94000244140625,
+                "end": 271.82000732421875
+            },
+            {
+                "word": "mentality",
+                "start": 271.82000732421875,
+                "end": 271.82000732421875
+            },
+            {
+                "word": "to",
+                "start": 271.9800109863281,
+                "end": 272.1400146484375
+            },
+            {
+                "word": "tell",
+                "start": 272.1400146484375,
+                "end": 272.239990234375
+            },
+            {
+                "word": "the",
+                "start": 272.239990234375,
+                "end": 272.5400085449219
+            },
+            {
+                "word": "society",
+                "start": 272.5400085449219,
+                "end": 272.8599853515625
+            },
+            {
+                "word": "that",
+                "start": 272.8599853515625,
+                "end": 273.3599853515625
+            },
+            {
+                "word": "women",
+                "start": 273.3599853515625,
+                "end": 273.5
+            },
+            {
+                "word": "also",
+                "start": 273.5,
+                "end": 274.0
+            },
+            {
+                "word": "are",
+                "start": 274.0,
+                "end": 274.29998779296875
+            },
+            {
+                "word": "capable",
+                "start": 274.29998779296875,
+                "end": 274.6400146484375
+            },
+            {
+                "word": "women",
+                "start": 274.6400146484375,
+                "end": 275.0199890136719
+            },
+            {
+                "word": "can",
+                "start": 275.0199890136719,
+                "end": 275.70001220703125
+            },
+            {
+                "word": "run",
+                "start": 275.70001220703125,
+                "end": 275.8999938964844
+            },
+            {
+                "word": "their",
+                "start": 275.8999938964844,
+                "end": 276.1000061035156
+            },
+            {
+                "word": "own",
+                "start": 276.1000061035156,
+                "end": 276.3999938964844
+            },
+            {
+                "word": "business",
+                "start": 276.3999938964844,
+                "end": 276.760009765625
+            },
+            {
+                "word": "women",
+                "start": 277.1000061035156,
+                "end": 277.1000061035156
+            },
+            {
+                "word": "are",
+                "start": 277.1000061035156,
+                "end": 277.5799865722656
+            },
+            {
+                "word": "even",
+                "start": 277.5799865722656,
+                "end": 277.94000244140625
+            },
+            {
+                "word": "like",
+                "start": 277.94000244140625,
+                "end": 278.3999938964844
+            },
+            {
+                "word": "more",
+                "start": 278.3999938964844,
+                "end": 278.5199890136719
+            },
+            {
+                "word": "successful",
+                "start": 278.5199890136719,
+                "end": 278.94000244140625
+            },
+            {
+                "word": "sometimes",
+                "start": 278.94000244140625,
+                "end": 279.5799865722656
+            },
+            {
+                "word": "when",
+                "start": 279.5799865722656,
+                "end": 280.1199951171875
+            },
+            {
+                "word": "they",
+                "start": 280.1199951171875,
+                "end": 280.260009765625
+            },
+            {
+                "word": "are",
+                "start": 280.260009765625,
+                "end": 280.6400146484375
+            },
+            {
+                "word": "running",
+                "start": 280.6400146484375,
+                "end": 280.6400146484375
+            },
+            {
+                "word": "their",
+                "start": 280.6400146484375,
+                "end": 281.0199890136719
+            },
+            {
+                "word": "business",
+                "start": 281.0199890136719,
+                "end": 281.3599853515625
+            },
+            {
+                "word": "professionally",
+                "start": 281.3599853515625,
+                "end": 282.0400085449219
+            },
+            {
+                "word": "We",
+                "start": 282.6400146484375,
+                "end": 283.5400085449219
+            },
+            {
+                "word": "started",
+                "start": 283.5400085449219,
+                "end": 284.0
+            },
+            {
+                "word": "with",
+                "start": 284.0,
+                "end": 284.3800048828125
+            },
+            {
+                "word": "giving",
+                "start": 284.3800048828125,
+                "end": 284.739990234375
+            },
+            {
+                "word": "training",
+                "start": 284.739990234375,
+                "end": 286.0400085449219
+            },
+            {
+                "word": "for",
+                "start": 286.0400085449219,
+                "end": 286.8800048828125
+            },
+            {
+                "word": "women",
+                "start": 286.8800048828125,
+                "end": 286.8800048828125
+            },
+            {
+                "word": "like",
+                "start": 287.67999267578125,
+                "end": 287.94000244140625
+            },
+            {
+                "word": "practical",
+                "start": 287.94000244140625,
+                "end": 288.32000732421875
+            },
+            {
+                "word": "training",
+                "start": 288.32000732421875,
+                "end": 288.7799987792969
+            },
+            {
+                "word": "regarding",
+                "start": 288.7799987792969,
+                "end": 289.260009765625
+            },
+            {
+                "word": "how",
+                "start": 289.260009765625,
+                "end": 289.760009765625
+            },
+            {
+                "word": "to",
+                "start": 289.760009765625,
+                "end": 290.1600036621094
+            },
+            {
+                "word": "for",
+                "start": 290.9599914550781,
+                "end": 290.9599914550781
+            },
+            {
+                "word": "example",
+                "start": 290.9599914550781,
+                "end": 290.9599914550781
+            },
+            {
+                "word": "cook",
+                "start": 290.9599914550781,
+                "end": 291.2799987792969
+            },
+            {
+                "word": "how",
+                "start": 291.4200134277344,
+                "end": 291.55999755859375
+            },
+            {
+                "word": "to",
+                "start": 291.55999755859375,
+                "end": 291.8999938964844
+            },
+            {
+                "word": "do",
+                "start": 291.8999938964844,
+                "end": 292.1199951171875
+            },
+            {
+                "word": "like",
+                "start": 292.1199951171875,
+                "end": 292.5799865722656
+            },
+            {
+                "word": "coiffer",
+                "start": 292.5799865722656,
+                "end": 292.739990234375
+            },
+            {
+                "word": "work",
+                "start": 292.739990234375,
+                "end": 293.2200012207031
+            },
+            {
+                "word": "how",
+                "start": 293.739990234375,
+                "end": 293.82000732421875
+            },
+            {
+                "word": "to",
+                "start": 293.82000732421875,
+                "end": 294.32000732421875
+            },
+            {
+                "word": "do",
+                "start": 294.32000732421875,
+                "end": 295.6400146484375
+            },
+            {
+                "word": "the",
+                "start": 295.6400146484375,
+                "end": 296.1600036621094
+            },
+            {
+                "word": "sewing",
+                "start": 296.1600036621094,
+                "end": 296.1600036621094
+            },
+            {
+                "word": "work",
+                "start": 296.1600036621094,
+                "end": 297.17999267578125
+            },
+            {
+                "word": "and",
+                "start": 297.17999267578125,
+                "end": 298.0
+            },
+            {
+                "word": "like",
+                "start": 298.0,
+                "end": 299.44000244140625
+            },
+            {
+                "word": "as",
+                "start": 299.44000244140625,
+                "end": 299.7799987792969
+            },
+            {
+                "word": "time",
+                "start": 299.7799987792969,
+                "end": 300.0799865722656
+            },
+            {
+                "word": "passed",
+                "start": 300.0799865722656,
+                "end": 300.5199890136719
+            },
+            {
+                "word": "this",
+                "start": 300.94000244140625,
+                "end": 301.1000061035156
+            },
+            {
+                "word": "idea",
+                "start": 301.1000061035156,
+                "end": 301.3999938964844
+            },
+            {
+                "word": "became",
+                "start": 301.3999938964844,
+                "end": 301.7200012207031
+            },
+            {
+                "word": "more",
+                "start": 301.7200012207031,
+                "end": 302.1400146484375
+            },
+            {
+                "word": "acceptable",
+                "start": 302.1400146484375,
+                "end": 302.4800109863281
+            },
+            {
+                "word": "by",
+                "start": 302.4800109863281,
+                "end": 302.79998779296875
+            },
+            {
+                "word": "the",
+                "start": 302.79998779296875,
+                "end": 303.1199951171875
+            },
+            {
+                "word": "society",
+                "start": 303.1199951171875,
+                "end": 303.44000244140625
+            },
+            {
+                "word": "because",
+                "start": 303.44000244140625,
+                "end": 303.9599914550781
+            },
+            {
+                "word": "women",
+                "start": 303.9599914550781,
+                "end": 304.239990234375
+            },
+            {
+                "word": "now",
+                "start": 304.239990234375,
+                "end": 305.1000061035156
+            },
+            {
+                "word": "they",
+                "start": 305.1000061035156,
+                "end": 305.739990234375
+            },
+            {
+                "word": "are",
+                "start": 305.739990234375,
+                "end": 305.8599853515625
+            },
+            {
+                "word": "helping",
+                "start": 305.8599853515625,
+                "end": 306.1400146484375
+            },
+            {
+                "word": "their",
+                "start": 306.1400146484375,
+                "end": 306.5199890136719
+            },
+            {
+                "word": "society",
+                "start": 306.5199890136719,
+                "end": 306.79998779296875
+            },
+            {
+                "word": "even",
+                "start": 306.79998779296875,
+                "end": 307.1199951171875
+            },
+            {
+                "word": "with",
+                "start": 307.1199951171875,
+                "end": 307.2799987792969
+            },
+            {
+                "word": "the",
+                "start": 307.2799987792969,
+                "end": 307.5
+            },
+            {
+                "word": "money",
+                "start": 307.5,
+                "end": 307.5199890136719
+            },
+            {
+                "word": "they",
+                "start": 307.5199890136719,
+                "end": 308.32000732421875
+            },
+            {
+                "word": "earn",
+                "start": 308.32000732421875,
+                "end": 308.55999755859375
+            },
+            {
+                "word": "And",
+                "start": 340.20001220703125,
+                "end": 340.8800048828125
+            },
+            {
+                "word": "even",
+                "start": 340.8800048828125,
+                "end": 336.5199890136719
+            },
+            {
+                "word": "we",
+                "start": 336.5199890136719,
+                "end": 341.55999755859375
+            },
+            {
+                "word": "have",
+                "start": 341.55999755859375,
+                "end": 341.8999938964844
+            },
+            {
+                "word": "discovered",
+                "start": 341.8999938964844,
+                "end": 342.17999267578125
+            },
+            {
+                "word": "that",
+                "start": 342.17999267578125,
+                "end": 342.760009765625
+            },
+            {
+                "word": "women",
+                "start": 342.760009765625,
+                "end": 342.760009765625
+            },
+            {
+                "word": "are",
+                "start": 342.760009765625,
+                "end": 343.0400085449219
+            },
+            {
+                "word": "really",
+                "start": 343.0400085449219,
+                "end": 343.5799865722656
+            },
+            {
+                "word": "active",
+                "start": 343.5799865722656,
+                "end": 343.79998779296875
+            },
+            {
+                "word": "in",
+                "start": 343.79998779296875,
+                "end": 344.6000061035156
+            },
+            {
+                "word": "some",
+                "start": 344.6000061035156,
+                "end": 345.4200134277344
+            },
+            {
+                "word": "specific",
+                "start": 345.4200134277344,
+                "end": 345.9800109863281
+            },
+            {
+                "word": "business",
+                "start": 345.9800109863281,
+                "end": 346.3800048828125
+            },
+            {
+                "word": "that",
+                "start": 346.3800048828125,
+                "end": 346.6000061035156
+            },
+            {
+                "word": "are",
+                "start": 346.6000061035156,
+                "end": 346.760009765625
+            },
+            {
+                "word": "very",
+                "start": 346.760009765625,
+                "end": 347.1000061035156
+            },
+            {
+                "word": "popular",
+                "start": 347.1000061035156,
+                "end": 347.4200134277344
+            },
+            {
+                "word": "here",
+                "start": 347.4200134277344,
+                "end": 347.8399963378906
+            },
+            {
+                "word": "For",
+                "start": 347.9599914550781,
+                "end": 348.0799865722656
+            },
+            {
+                "word": "example",
+                "start": 348.0799865722656,
+                "end": 348.6400146484375
+            },
+            {
+                "word": "the",
+                "start": 350.2799987792969,
+                "end": 350.2799987792969
+            },
+            {
+                "word": "Saj",
+                "start": 350.2799987792969,
+                "end": 350.3999938964844
+            },
+            {
+                "word": "bread",
+                "start": 350.3999938964844,
+                "end": 350.9200134277344
+            },
+            {
+                "word": "which",
+                "start": 351.1000061035156,
+                "end": 351.2799987792969
+            },
+            {
+                "word": "is",
+                "start": 351.2799987792969,
+                "end": 351.5199890136719
+            },
+            {
+                "word": "very",
+                "start": 351.5199890136719,
+                "end": 351.8800048828125
+            },
+            {
+                "word": "famous",
+                "start": 351.8800048828125,
+                "end": 352.239990234375
+            },
+            {
+                "word": "and",
+                "start": 352.239990234375,
+                "end": 352.94000244140625
+            },
+            {
+                "word": "popular",
+                "start": 352.94000244140625,
+                "end": 352.94000244140625
+            },
+            {
+                "word": "here",
+                "start": 352.94000244140625,
+                "end": 353.1600036621094
+            },
+            {
+                "word": "it",
+                "start": 353.2200012207031,
+                "end": 353.67999267578125
+            },
+            {
+                "word": "belongs",
+                "start": 353.67999267578125,
+                "end": 353.67999267578125
+            },
+            {
+                "word": "to",
+                "start": 353.67999267578125,
+                "end": 353.8399963378906
+            },
+            {
+                "word": "the",
+                "start": 353.8399963378906,
+                "end": 354.17999267578125
+            },
+            {
+                "word": "culture",
+                "start": 354.17999267578125,
+                "end": 354.3599853515625
+            },
+            {
+                "word": "of",
+                "start": 354.3599853515625,
+                "end": 354.6199951171875
+            },
+            {
+                "word": "this",
+                "start": 354.6199951171875,
+                "end": 354.8800048828125
+            },
+            {
+                "word": "region",
+                "start": 354.8800048828125,
+                "end": 355.1400146484375
+            },
+            {
+                "word": "Now",
+                "start": 355.1400146484375,
+                "end": 355.760009765625
+            },
+            {
+                "word": "women",
+                "start": 355.760009765625,
+                "end": 355.9599914550781
+            },
+            {
+                "word": "have",
+                "start": 355.9599914550781,
+                "end": 356.3599853515625
+            },
+            {
+                "word": "more",
+                "start": 356.3599853515625,
+                "end": 356.6400146484375
+            },
+            {
+                "word": "than",
+                "start": 356.6400146484375,
+                "end": 357.1199951171875
+            },
+            {
+                "word": "one",
+                "start": 357.1199951171875,
+                "end": 357.4599914550781
+            },
+            {
+                "word": "patisserie",
+                "start": 357.4599914550781,
+                "end": 357.760009765625
+            },
+            {
+                "word": "or",
+                "start": 357.760009765625,
+                "end": 358.4599914550781
+            },
+            {
+                "word": "bakery",
+                "start": 358.4599914550781,
+                "end": 358.4599914550781
+            },
+            {
+                "word": "that",
+                "start": 358.4599914550781,
+                "end": 358.6000061035156
+            },
+            {
+                "word": "are",
+                "start": 358.6000061035156,
+                "end": 358.9200134277344
+            },
+            {
+                "word": "making",
+                "start": 358.9200134277344,
+                "end": 359.20001220703125
+            },
+            {
+                "word": "this",
+                "start": 359.20001220703125,
+                "end": 359.5400085449219
+            },
+            {
+                "word": "kind",
+                "start": 359.5400085449219,
+                "end": 359.8599853515625
+            },
+            {
+                "word": "of",
+                "start": 359.8599853515625,
+                "end": 360.55999755859375
+            },
+            {
+                "word": "bread",
+                "start": 360.55999755859375,
+                "end": 360.55999755859375
+            },
+            {
+                "word": "and",
+                "start": 360.94000244140625,
+                "end": 361.0199890136719
+            },
+            {
+                "word": "also",
+                "start": 361.0199890136719,
+                "end": 361.4800109863281
+            },
+            {
+                "word": "women",
+                "start": 361.4800109863281,
+                "end": 361.94000244140625
+            },
+            {
+                "word": "who",
+                "start": 361.94000244140625,
+                "end": 362.1600036621094
+            },
+            {
+                "word": "are",
+                "start": 362.1600036621094,
+                "end": 362.3399963378906
+            },
+            {
+                "word": "working",
+                "start": 362.3399963378906,
+                "end": 362.6199951171875
+            },
+            {
+                "word": "in",
+                "start": 362.6199951171875,
+                "end": 362.9800109863281
+            },
+            {
+                "word": "agricultural",
+                "start": 362.9800109863281,
+                "end": 363.5199890136719
+            },
+            {
+                "word": "lands",
+                "start": 363.5199890136719,
+                "end": 363.8999938964844
+            },
+            {
+                "word": "and",
+                "start": 363.8999938964844,
+                "end": 364.1600036621094
+            },
+            {
+                "word": "doing",
+                "start": 364.1600036621094,
+                "end": 364.3800048828125
+            },
+            {
+                "word": "the",
+                "start": 364.3800048828125,
+                "end": 364.8399963378906
+            },
+            {
+                "word": "harvesting",
+                "start": 364.8399963378906,
+                "end": 365.239990234375
+            },
+            {
+                "word": "and",
+                "start": 365.239990234375,
+                "end": 366.0
+            },
+            {
+                "word": "working",
+                "start": 366.0,
+                "end": 366.8399963378906
+            },
+            {
+                "word": "in",
+                "start": 366.8399963378906,
+                "end": 367.1600036621094
+            },
+            {
+                "word": "the",
+                "start": 367.1600036621094,
+                "end": 367.67999267578125
+            },
+            {
+                "word": "lands",
+                "start": 367.67999267578125,
+                "end": 367.70001220703125
+            },
+            {
+                "word": "it's",
+                "start": 368.20001220703125,
+                "end": 369.5400085449219
+            },
+            {
+                "word": "very",
+                "start": 369.5400085449219,
+                "end": 369.8599853515625
+            },
+            {
+                "word": "popular",
+                "start": 369.8599853515625,
+                "end": 370.1199951171875
+            },
+            {
+                "word": "here",
+                "start": 370.1199951171875,
+                "end": 370.4599914550781
+            },
+            {
+                "word": "and",
+                "start": 370.4599914550781,
+                "end": 370.6199951171875
+            },
+            {
+                "word": "they",
+                "start": 370.6199951171875,
+                "end": 370.7799987792969
+            },
+            {
+                "word": "have",
+                "start": 370.7799987792969,
+                "end": 371.0400085449219
+            },
+            {
+                "word": "proven",
+                "start": 371.0400085449219,
+                "end": 371.2200012207031
+            },
+            {
+                "word": "that",
+                "start": 371.2200012207031,
+                "end": 371.5199890136719
+            },
+            {
+                "word": "they",
+                "start": 371.5199890136719,
+                "end": 371.6400146484375
+            },
+            {
+                "word": "are",
+                "start": 371.6400146484375,
+                "end": 371.79998779296875
+            },
+            {
+                "word": "able",
+                "start": 371.79998779296875,
+                "end": 372.05999755859375
+            },
+            {
+                "word": "to",
+                "start": 372.05999755859375,
+                "end": 372.32000732421875
+            },
+            {
+                "word": "do",
+                "start": 372.32000732421875,
+                "end": 372.4599914550781
+            },
+            {
+                "word": "this",
+                "start": 372.4599914550781,
+                "end": 372.7799987792969
+            },
+            {
+                "word": "So",
+                "start": 373.739990234375,
+                "end": 373.9800109863281
+            },
+            {
+                "word": "here",
+                "start": 373.9800109863281,
+                "end": 374.5
+            },
+            {
+                "word": "we",
+                "start": 374.5799865722656,
+                "end": 375.6600036621094
+            },
+            {
+                "word": "encouraged",
+                "start": 375.6600036621094,
+                "end": 376.05999755859375
+            },
+            {
+                "word": "women",
+                "start": 376.05999755859375,
+                "end": 376.44000244140625
+            },
+            {
+                "word": "in",
+                "start": 376.44000244140625,
+                "end": 376.739990234375
+            },
+            {
+                "word": "engaging",
+                "start": 376.739990234375,
+                "end": 377.1199951171875
+            },
+            {
+                "word": "in",
+                "start": 377.1199951171875,
+                "end": 377.5400085449219
+            },
+            {
+                "word": "business",
+                "start": 377.5400085449219,
+                "end": 377.7200012207031
+            },
+            {
+                "word": "and",
+                "start": 377.7200012207031,
+                "end": 377.94000244140625
+            },
+            {
+                "word": "we",
+                "start": 377.94000244140625,
+                "end": 378.1000061035156
+            },
+            {
+                "word": "also",
+                "start": 378.1000061035156,
+                "end": 378.4200134277344
+            },
+            {
+                "word": "covered",
+                "start": 378.4200134277344,
+                "end": 378.7799987792969
+            },
+            {
+                "word": "the",
+                "start": 378.7799987792969,
+                "end": 379.20001220703125
+            },
+            {
+                "word": "needs",
+                "start": 379.20001220703125,
+                "end": 379.20001220703125
+            },
+            {
+                "word": "of",
+                "start": 379.20001220703125,
+                "end": 379.3999938964844
+            },
+            {
+                "word": "the",
+                "start": 379.3999938964844,
+                "end": 379.6400146484375
+            },
+            {
+                "word": "society",
+                "start": 379.6400146484375,
+                "end": 379.9800109863281
+            },
+            {
+                "word": "for",
+                "start": 379.9800109863281,
+                "end": 380.3999938964844
+            },
+            {
+                "word": "the",
+                "start": 380.3999938964844,
+                "end": 380.6400146484375
+            },
+            {
+                "word": "work",
+                "start": 380.6400146484375,
+                "end": 380.760009765625
+            },
+            {
+                "word": "that",
+                "start": 380.760009765625,
+                "end": 380.94000244140625
+            },
+            {
+                "word": "they",
+                "start": 380.94000244140625,
+                "end": 381.05999755859375
+            },
+            {
+                "word": "are",
+                "start": 381.05999755859375,
+                "end": 381.239990234375
+            },
+            {
+                "word": "doing",
+                "start": 381.239990234375,
+                "end": 381.4800109863281
+            },
+            {
+                "word": "and",
+                "start": 381.4800109863281,
+                "end": 381.8599853515625
+            },
+            {
+                "word": "the",
+                "start": 381.8599853515625,
+                "end": 382.67999267578125
+            },
+            {
+                "word": "services",
+                "start": 382.67999267578125,
+                "end": 382.67999267578125
+            },
+            {
+                "word": "they",
+                "start": 382.67999267578125,
+                "end": 382.9200134277344
+            },
+            {
+                "word": "are",
+                "start": 382.9200134277344,
+                "end": 383.1400146484375
+            },
+            {
+                "word": "providing",
+                "start": 383.1400146484375,
+                "end": 383.4800109863281
+            },
+            {
+                "word": "Yeah",
+                "start": 385.3999938964844,
+                "end": 386.67999267578125
+            },
+            {
+                "word": "obviously",
+                "start": 387.1600036621094,
+                "end": 387.8800048828125
+            },
+            {
+                "word": "as",
+                "start": 388.1000061035156,
+                "end": 388.8999938964844
+            },
+            {
+                "word": "people",
+                "start": 388.8999938964844,
+                "end": 389.1000061035156
+            },
+            {
+                "word": "understand",
+                "start": 389.1000061035156,
+                "end": 389.739990234375
+            },
+            {
+                "word": "that",
+                "start": 389.739990234375,
+                "end": 390.29998779296875
+            },
+            {
+                "word": "you're",
+                "start": 390.29998779296875,
+                "end": 390.9599914550781
+            },
+            {
+                "word": "capable",
+                "start": 390.9599914550781,
+                "end": 390.9599914550781
+            },
+            {
+                "word": "of",
+                "start": 390.9599914550781,
+                "end": 390.9599914550781
+            },
+            {
+                "word": "doing",
+                "start": 390.9599914550781,
+                "end": 390.9599914550781
+            },
+            {
+                "word": "this",
+                "start": 390.9599914550781,
+                "end": 390.9599914550781
+            }
+        ]
+    }
